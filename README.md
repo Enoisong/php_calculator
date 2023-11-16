@@ -81,7 +81,7 @@ Install php
 
 ## 🚀 Live Demo <a name="live-demo"></a>
  
- [Live Demo](   http://localhost/calculator_php/index.php) 
+ [Live Demo](    http://localhost/php_calculator/index.php) 
 
 ### Setup
 
